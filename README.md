@@ -15,4 +15,4 @@
 •	Anaconda Spyder(ML)
 •	Eclipse(For scheduling)
 ```
-
+Refer ppt for more details
